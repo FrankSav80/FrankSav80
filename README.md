@@ -25,9 +25,6 @@
 
 I am a graduate in **Automation and Robotics Engineering** with a strong passion for **robotics**, **control systems**, and the **integration of hardware and software technologies**.
 
-My **Master’s thesis** focused on developing a **Model Predictive Control (MPC)** framework for an anthropomorphic robot arm in **ROS2 + MoveIt2**, enabling **real-time obstacle avoidance** via **Control Barrier Functions (CBFs)**.  
-Entirely implemented in **C++** and validated in simulation.
-
 ---
 
 ## 🚀 Featured Projects
