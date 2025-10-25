@@ -59,7 +59,7 @@ I am a graduate in **Automation and Robotics Engineering** with a strong passion
 
 ### Parallelogram Gripper Design  
 > ⚙️ SolidWorks + MATLAB  
-> Designed and analyzed a gripper mechanism for precise and stable object grasping.
+> Designed and analyzed a gripper mechanism for precise and stable object grasping.  
 🔗 [View Repository](https://github.com/ItsTomSav/gear_gripper_solidworks)
 
 ---
