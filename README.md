@@ -46,19 +46,21 @@ I am a graduate in **Automation and Robotics Engineering** with a strong passion
 ### 🅿️ FPGA-Based Car Parking System  
 > 💡 VHDL + DE10-Lite FPGA + Sensors  
 > Developed a hardware-based parking system using ultrasonic sensors, a servo motor, and a Mealy FSM in VHDL.  
-🔗 [View Repository](https://github.com/FrankSav80/car_parking_system_vhdl)
+🔗 [View Repository](https://github.com/FrankSav80/parking_lot_system_FPGA)
 
 ---
 
-### 🚁 UAV Simulation for Dataset Acquisition  
+### 🚁 Drone Simulation for Dataset Acquisition  
 > 🧠 CARLA + ROS + Python  
 > Simulated UAV operations in complex urban environments using CARLA (via Docker) for dataset generation.  
+🔗 [View Repository](https://github.com/FrankSav80/drone_sim_rec_carla)
 
 ---
 
 ### 🤖 Parallelogram Gripper Design  
 > ⚙️ SolidWorks + MATLAB  
 > Designed and analyzed a gripper mechanism for precise and stable object grasping.
+🔗 [View Repository](https://github.com/ItsTomSav/gear_gripper_solidworks)
 
 ---
 
