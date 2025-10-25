@@ -36,28 +36,28 @@ I am a graduate in **Automation and Robotics Engineering** with a strong passion
 
 ---
 
-### 🔧 Control of a 2-DOF Planar Manipulator  
+### 🔧 Control of a 2DOF Planar Robotic Manipulator  
 > 🦿 MATLAB + Simulink + Simscape  
 > Designed and simulated decentralized and centralized controllers for a 2-DOF planar robot.  
 🔗 [View Repository](https://github.com/ItsTomSav/planar_robot_manipulator_control)
 
 ---
 
-### 🅿️ FPGA-Based Car Parking System  
+### 🅿️ Car Parking System (VHDL Implementation) 
 > 💡 VHDL + DE10-Lite FPGA + Sensors  
 > Developed a hardware-based parking system using ultrasonic sensors, a servo motor, and a Mealy FSM in VHDL.  
 🔗 [View Repository](https://github.com/FrankSav80/parking_lot_system_FPGA)
 
 ---
 
-### 🚁 Drone Simulation for Dataset Acquisition  
+### 🚁 Drone Simulation for Dataset Acquisition
 > 🧠 CARLA + ROS + Python  
 > Simulated UAV operations in complex urban environments using CARLA (via Docker) for dataset generation.  
 🔗 [View Repository](https://github.com/FrankSav80/drone_sim_rec_carla)
 
 ---
 
-### 🤖 Parallelogram Gripper Design  
+### Parallelogram Gripper Design  
 > ⚙️ SolidWorks + MATLAB  
 > Designed and analyzed a gripper mechanism for precise and stable object grasping.
 🔗 [View Repository](https://github.com/ItsTomSav/gear_gripper_solidworks)
