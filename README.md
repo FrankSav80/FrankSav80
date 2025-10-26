@@ -27,7 +27,7 @@ I am a graduate in **Automation and Robotics Engineering** with a strong passion
 
 ---
 
-## 🚀 Featured Projects
+## Master Thesis 
 
 ### 🧩 Model Predictive Control for Robotic Manipulators  
 > 🦾 MPC + CBFs + ROS2 + MoveIt2  
@@ -35,6 +35,8 @@ I am a graduate in **Automation and Robotics Engineering** with a strong passion
 🔗 [View Repository](https://github.com/FrankSav80/niryo_mpc_control)
 
 ---
+
+## 🚀 Featured Projects
 
 ### 🔧 Control of a 2DOF Planar Robotic Manipulator  
 > 🦿 MATLAB + Simulink + Simscape  
@@ -64,7 +66,7 @@ I am a graduate in **Automation and Robotics Engineering** with a strong passion
 
 ---
 
-## 💼 Internship Experience
+## 💼 Internship Experience 
 
 ### 🤖 Autonomous Manipulation with a Collaborative Robot  
 > 🧩 ROS2 + MoveIt2 + C++ + MATLAB  
