@@ -66,6 +66,13 @@ I am a graduate in **Automation and Robotics Engineering** with a strong passion
 
 ---
 
+### 🎮 Jumping Crash (3D Platformer Game)
+> 🕹️ Unity + C# + Blender  
+> Developed a 3D platformer inspired by *Crash Bandicoot* and *Super Mario 64*, featuring multiple levels, enemies, traps, and dynamic UI management.  
+🔗 [View Repository](https://github.com/ItsTomSav/jumping_crash_platform_game)
+
+---
+
 ## 💼 Internship Experience 
 
 ### 🤖 Autonomous Manipulation with a Collaborative Robot  
