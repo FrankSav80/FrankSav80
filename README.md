@@ -32,7 +32,7 @@ I am a graduate in **Automation and Robotics Engineering** with a strong passion
 ### 🧩 Model Predictive Control for Robotic Manipulators  
 > 🦾 MPC + CBFs + ROS2 + MoveIt2  
 > Implemented a predictive control framework for a robotic arm capable of safe trajectory tracking in dynamic environments.  
-🔗 [View Repository](https://github.com/FrankSav80/niryo_mpc_control)
+🔗 [View Repository](https://github.com/FrankSav80/mpc_robotic_manipulator)
 
 ---
 
