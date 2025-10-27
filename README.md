@@ -113,12 +113,3 @@ I am a graduate in **Automation and Robotics Engineering** with a strong passion
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode)
 
 ---
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FrankSav80&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrankSav80&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
